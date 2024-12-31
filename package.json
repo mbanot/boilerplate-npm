@@ -12,5 +12,8 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Tafara Mbano",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ],
+	"license": "MIT",
+	"version": "1.2.0"
 }
